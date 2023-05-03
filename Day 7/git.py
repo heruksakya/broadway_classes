@@ -14,6 +14,6 @@
 # Git branching
 # git branch # It shows all the branches and highlights the current branch
 # git branch <branch_name> # Creates a new branch
-# git checkout <branch_name> # Jumps (checkout) to eht new branch
+# git checkout <branch_name> # Jumps (checkout) to the new branch
 
 # git checkout -b <branch_name> # Creates a new branch and jumps to that branch
